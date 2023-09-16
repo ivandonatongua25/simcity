@@ -1,0 +1,2 @@
+class Pasto:
+    print("Pasto");
